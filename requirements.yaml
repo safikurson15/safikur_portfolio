@@ -1,0 +1,17 @@
+packages:
+  "framer-motion": "For page transitions, scroll animations, and micro-interactions"
+  "react-icons": "For specific brand icons like SiLinkedin"
+  "clsx": "For conditional class merging in UI components"
+  "tailwind-merge": "For resolving Tailwind class conflicts"
+
+images:
+  - path: "artifacts/portfolio/public/images/hero-bg.png"
+    description: "Abstract elegant civil engineering background, subtle wireframe blueprints blending into modern architectural concrete structures, warm earth tones, shallow depth of field, premium corporate feel, highly minimal"
+    aspect_ratio: "16:9"
+  - path: "artifacts/portfolio/public/images/texture.png"
+    description: "Subtle topographic map lines on a soft beige background, extremely low contrast, elegant earth tones, suitable for a web background texture"
+    aspect_ratio: "16:9"
+
+notes:
+  - The application is a fully static personal portfolio with hardcoded data.
+  - The contact form simulates a submission using a mock mutation since no backend is provided.
